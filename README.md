@@ -1,2 +1,2 @@
 # AZ-Tanks-Forever
-Repository for all build of the fan game AZ Tanks forever
+Repository for all builds of the fan game AZ Tanks forever
