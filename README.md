@@ -21,3 +21,6 @@ This repo will get occasional updated builds until I get to releasing a GM versi
 
 ### Week 8
 Well since I've only now started to add builds to this repo, I don't have anything in the Dev Logs for Weeks 1 - 7. So let's just start with week 8.
+
+So the project's getting along bit by bit
+
