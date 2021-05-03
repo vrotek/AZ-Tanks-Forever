@@ -12,5 +12,9 @@ This repo is split up into different branches FP (first playable),Alpha, Beta, G
 This repo will get occasional updated builds until I get to releasing a GM version. Afterwards It will no longer be maintained.
 
  
-> If you like to donate something to the project here is my patreon
-> https://www.patreon.com/user?u=54915455
+<!--If you like to donate something to the project here is my patreon--> 
+<!--https://www.patreon.com/user?u=54915455--> 
+
+## Dev Log :suspect:
+
+### 
